@@ -1,0 +1,56 @@
+
+p {
+    color: white;
+    font-size: 40px;
+    font-family: "sans-serif";
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.company {
+    color: white;
+    margin-left: 200px;
+    font-size: 30px;
+    /*margin-top: 80px;*/
+
+}
+
+.navbar-logo {
+    color: #fff;
+    pointer-events: none;
+}
+
+.app-logo {
+    animation: app-logo-spin infinite 20s linear;
+    display: flex;
+    height: 10vmin;
+    /*margin-top: 10px;*/
+
+}
+
+nav {
+    background-color: black;
+
+}
+
+.pages {
+    display: flex;
+    direction: rtl;
+    font-size: 40px;
+    color: deepskyblue;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.sub {
+    margin-right: 60px;
+}
+
